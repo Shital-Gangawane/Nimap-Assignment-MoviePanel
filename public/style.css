@@ -1,0 +1,12 @@
+body {
+    height: 100vh; /* Makes the body span the full viewport height */
+    width: 100vw; /* Makes the body span the full viewport width */
+    margin: 0; /* Removes any default margin */
+    background-color: #151618; /* Sets the background color */
+    display: flex; /* Optional: to center content */
+    align-items: center; /* Optional: vertical centering */
+    justify-content: center; /* Optional: horizontal centering */
+  
+    color: rgb(15 16 18); /* Optional: sets text color for contrast */
+  }
+  
